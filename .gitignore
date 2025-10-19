@@ -1,0 +1,7 @@
+# Ignore pyinstaller-generated files.
+/build/
+/dist/
+/*.spec
+
+# vscode config.
+/.vscode/
