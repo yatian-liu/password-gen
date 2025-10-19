@@ -6,6 +6,6 @@ Example usage:
 
 ```bash
 $ ./password_gen.py 5 12    # Generate 5 passwords, each containing 12 random characters
-$ ./password_gen_pinyin.py 3 4  # Generate 3 passwords, each containing 4 PinYin of random 2-character Chinese words
+$ ./password_gen_pinyin.py 3 4  # Generate 3 passwords, each containing 4 Pinyin of random 2-character Chinese words
 $ ./password_gen_pinyin.py 3 4 --pinyin-and-tone # Generate 3 passwords, each containing 4 Pinyin *with tones* of random 2-character Chinese words
 ```
